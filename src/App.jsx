@@ -1,6 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Navbar from "./Components/Navbar/Navbar";
-import Courses from "./Components/courses/Courses";
+import Courses from "./Components/courses/courses";
+
 import Home from './Components/Home/Home';
 import HowToRegister from './Components/HowToRegister/HowToRegister';
 import BookTrial from './Components/BookTrial/BookTrial';
